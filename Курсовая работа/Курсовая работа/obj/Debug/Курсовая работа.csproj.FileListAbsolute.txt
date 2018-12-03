@@ -1,0 +1,27 @@
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form2.resources
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Game.resources
+C:\Users\AK-47\Desktop\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Users.resources
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe.config
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.exe
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\bin\Debug\Курсовая работа.pdb
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csprojAssemblyReference.cache
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form1.resources
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Form2.resources
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Game.resources
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Properties.Resources.resources
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Users.resources
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.GenerateResource.cache
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.csproj.CoreCompileInputs.cache
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.exe
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая работа.pdb
+C:\Users\AK-47\Desktop\MV2017\Курсавая Дашкина\Курсовая работа\Курсовая работа\obj\Debug\Курсовая_работа.Top.resources
